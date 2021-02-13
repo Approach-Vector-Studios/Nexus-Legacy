@@ -1,0 +1,37 @@
+v5.2
++ Fixed issue
+V5.1
++ Improved getlastmessages
+V5
++ Added getlastmessages
+V4.1
++ Added DiscordJS's eval command
+v4
++ Improved recovery times by using clusters. Unless the main application crashes the bot is should be able to restart itself within 2 seconds
+v3.4
++ Fixed a bug I noticed before the bot crashed because of it
+v3.3
++ Stability to the $voteoff command
+V3.2
++ [REDACTED]
+V3.1
++ Fixed a bug that crashed the bot when files where attached
+V3
++ The new thing now fully works without issues!
+~ Update released on 19/9/2020
+Version Experimental3
++ Made some changes to the way the bot sends messages
+- May cause bugs that break commands or the entire bot
+V2.3
++ Added $voteoff
+~ Update released 19/9/2020
+V2
++ Added $help
++ Added suggestions
+~ Update released on 18/9/2020
+V1
++ The bot has been totally rewritten to be better, faster and more easy to use then before! Enjoy!
+- Removed the sleep mode since the bot is no longer a ram and cpu hungry beast.
+- The console is not working as it has not yet been fully implemented.
+- Removed self awareness.
+~ Update released on 18/9/2020

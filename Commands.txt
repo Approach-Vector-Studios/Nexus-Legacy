@@ -1,0 +1,14 @@
+```
+$help - The thing you are currently looking at.
+$changelog - Shows all changes and the current version.
+$ping - Shows how fast the bot can reach Discord.
+$voteoff @mention - Votes someone off.
+
+$restart - Admin only.
+$kill - Admin only.
+$crashlog - Admin only.
+$updatestatus - Admin only.
+$getlastmessages - Admin only.
+```
+
+DM me to make a suggestion.
